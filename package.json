@@ -1,0 +1,27 @@
+{
+  "name": "wtk",
+  "version": "0.1.0",
+  "description": "An SPA framework",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellomouse/wtk.git"
+  },
+  "keywords": [
+    "spa",
+    "framework"
+  ],
+  "author": "Nickolay Ilyushin <nickolay02@inbox.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hellomouse/wtk/issues"
+  },
+  "homepage": "https://github.com/hellomouse/wtk#readme",
+  "devDependencies": {
+    "tslint": "^5.10.0",
+    "typescript": "^2.8.3"
+  }
+}
